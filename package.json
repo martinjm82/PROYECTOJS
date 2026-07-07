@@ -5,7 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "login": "node scripts/login.js",
+    "listarTodos": "node scripts/listarTodos.js",
+    "obtenerPorId": "node scripts/obtenerPorId.js",
+    "crearProducto": "node scripts/crearProducto.js",
+    "actualizarProducto": "node scripts/actualizarProducto.js",
+    "eliminarProducto": "node scripts/eliminarProducto.js"
   },
   "keywords": [],
   "author": "",
