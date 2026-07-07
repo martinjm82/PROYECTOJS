@@ -65,7 +65,7 @@ npm run obtenerPorId -- ID_DEL_PRODUCTO
 Ejemplo:
 
 ```bash
-npm run obtenerPorId -- XnLbBaKUSEsqyeuhkA5Q
+npm run obtenerPorId -- XnIbBaKUSEsqyeuhkA5Q
 ```
 
 Implementación: [`scripts/obtenerPorId.js`](scripts/obtenerPorId.js)
